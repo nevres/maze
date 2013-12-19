@@ -14,6 +14,6 @@ public class Alien {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("this is code that is changed");
+        System.out.println("this is code thsats is changed");
     }
 }
